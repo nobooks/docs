@@ -47,7 +47,7 @@ katıldığında ve aktif olduklarında uygulama performans sorunu vermemelidir.
 - Şeyma ATMACA: Frontend, Backend
 - Zeynep Rana DÖNMEZ: Frontend, Backend
 
-## Yazılım/Donanım Teknolojileri
+## Kullanılan Yazılım/Donanım Teknolojileri
 - HTML
 - CSS
 - Node.JS
@@ -55,5 +55,6 @@ katıldığında ve aktif olduklarında uygulama performans sorunu vermemelidir.
 - MongoDB
 - Bootstrap
 
-##
+## Benimsenen Yazılım Geliştirme Metodu
+
 
