@@ -25,5 +25,31 @@ katıldığında ve aktif olduklarında uygulama performans sorunu vermemelidir.
 - Herhangi bir tehdit durumunda kullanıcılara sorunsuz bir şekilde uygulama 
 üzerinden bildirim gitmelidir.
 
-## Takım Üyeleri
--
+## Grup Üyeleri
+- Eda COŞKUN
+- Nurcan ŞENSOY
+- Müberra ÇATAK
+- Şeyma ATMACA
+- Zeynep Rana DÖNMEZ
+
+## Grup Üyelerinin Yetkinlikleri
+- Eda COŞKUN: Node.JS, HTML, CSS, MongoDB, Bootstrap
+- Nurcan ŞENSOY: Node.JS, HTML, CSS, MongoDB
+- Müberra ÇATAK: Node.JS, HTML, CSS, MongoDB, Bootstrap
+- Şeyma ATMACA: Node.JS, HTML, CSS, Socket.IO, MongoDB
+- Zeynep Rana DÖNMEZ: Node.JS, HTML, CSS, MongoDB
+
+## Grup Üyelerinin Görevleri
+- Eda COŞKUN: Frontend, Backend
+- Nurcan ŞENSOY: Frontend, Backend
+- Müberra ÇATAK: Frontend, Backend
+- Şeyma ATMACA: Frontend, Backend
+- Zeynep Rana DÖNMEZ: Frontend, Backend
+
+## Yazılım/Donanım Teknolojileri
+- HTML
+- CSS
+- Node.JS
+- Socket.IO
+- MongoDB
+- Bootstrap
