@@ -56,5 +56,5 @@ katıldığında ve aktif olduklarında uygulama performans sorunu vermemelidir.
 - Bootstrap
 
 ## Benimsenen Yazılım Geliştirme Metodu
-
+Çevik (Agile) Yazılım Geliştirme, yinelemeli olarak yazılım geliştirme sürecinin aktivitelerinin uygulanması ve yazılım ürününün doğru bir şekilde, değişime açık olarak geliştirilmesidir. Çevik (Agile) Yazılım Geliştirme metodolojilerinden NoBooks chat uygulaması projesi için en uygun olanının Scrum metodu olduğuna karar verdik ve bu yöntem ile projeyi geliştirmekteyiz. Scrum, günümüzde kullanılan en popüler Agile framework’lerden birisidir ve karmaşık ürünler, sistemler geliştirmek için kullanılır. Scrum’ın üç fazından ilki olan taslak planlama ile projenin genel amaçlarını belirledik ve tasarımını yaptık. İkinci aşaması olan hızlı koşma döngüsü fazında ise uygulamamıza yeni bir özellik ile güncellemekte ve bunları dokümantasyona eklemekteyiz. Scrum metodunu seçme nedenimiz ise projeyi yönetebilir ve anlaşılabilir parçalara bölerek daha kolay ilerlememizi sağlamasıdır. Gereksinimler değiştikçe ve yeni gereksinim eklendikçe ilerleme engellenmemektedir. Tüm takım bireyleri sürece dahil olarak projenin geneline hakim olmaktadır.
 
