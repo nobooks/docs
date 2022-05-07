@@ -1,4 +1,5 @@
-
+# NoBooks-Web-Sohbet-Uygulaması
+NoBooks, kullanıcıların birbirleriyle güvenli bir şekilde iletişim kurmaları için geliştirilmiş bir sohbet uygulamasıdır.
 ## Amaç  
 NoBooks, kullanıcıların birbirleriyle güvenli bir şekilde iletişim kurabilmeleri için geliştirilmiş bir 
 chat uygulamasıdır. Diğer chat uygulamalarından farklı olarak uygulamanın ana hedefi, 
@@ -53,3 +54,5 @@ katıldığında ve aktif olduklarında uygulama performans sorunu vermemelidir.
 - Socket.IO
 - MongoDB
 - Bootstrap
+
+##
